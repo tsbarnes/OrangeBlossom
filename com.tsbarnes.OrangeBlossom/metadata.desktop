@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=Soft pinks with a hint of orange
+Name=Orange Blossom
+X-KDE-PluginInfo-Author=Thea Barnes
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=thea@tsbarnes.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=com.tsbarnes.OrangeBlossom
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/tsbarnes/OrangeBlossom
+X-KDE-ServiceTypes=Plasma/LookAndFeel
