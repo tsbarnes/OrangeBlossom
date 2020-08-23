@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=com.tsbarnes.OrangeBlossom
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/OrangeBlossom
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1414998,kns://plasma-themes.knsrc/api.kde-look.org/1352754
